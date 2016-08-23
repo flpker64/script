@@ -3,4 +3,4 @@
 .RData
 .Ruserdata
 script.Rproj
-*.html
+*.html # exemple html
